@@ -27,8 +27,3 @@ Foi utilizado o Node.JS para desenvolvimento da API que será responsável pelas
 
 Foi criado utilizando o framework React na liguagem Javascript com as bibliotecas react-toastify para utilização de toasts de respostas para o usuário,
 axios para fazer a comunicação com o back-end, styled-components para estilização dos componentes e o react-icons para utilização de icones. 
-
-3. Conclusão
-
-Este projeto permitiu a aplicação de conceitos aprendidos na faculdade, aprimorar meus conhecimentos nas tecnologias utilizadas principalmente na parte da integração
-entre elas.
